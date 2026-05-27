@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Microsoft Office / Excel — lock and temporary files
+~$*
+*.tmp
+*.temp
+*.xlk
+
+# VBA / Office autosave and recovery (if you add workbooks to the repo)
+*.wbk
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
