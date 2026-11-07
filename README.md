@@ -186,8 +186,9 @@ The macro detects columns named:
 ```text
 barcode
 bar code
-баркод
 ```
+
+(the Russian spelling of "barcode" is matched too)
 
 and applies number formatting to display them correctly.
 
